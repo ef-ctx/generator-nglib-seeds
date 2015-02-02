@@ -6,6 +6,7 @@
     "author.name": "EF CTX",
     "author.email": "ctx@ef.com",
     "author.url": "http://ef.com",
+    "has.sass": false,
     "use.travis": true
   }
 }
