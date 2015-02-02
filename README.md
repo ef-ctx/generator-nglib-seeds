@@ -1,12 +1,12 @@
 # generator-nglib-seeds
 
-> Seed templates for generating [boilerplate-nglib](https://github.com/cork-labs/boilerplate-nglib) with [generator-nglib](https://github.com/cork-labs/generator-nglib).
+> Seed templates for generating a [boilerplate-nglib](https://github.com/cork-labs/boilerplate-nglib) with [generator-nglib](https://github.com/cork-labs/generator-nglib).
 
 Nothing to see here, just follow the links above.
 
-## [MIT License](LICENSE-MIT)
+## MIT License
 
-[Copyright (c) 2015 Cork Labs](http://cork-labs.mit-license.org/2015)
+Copyright (c) EF Education First Group.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
